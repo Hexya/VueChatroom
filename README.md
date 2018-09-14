@@ -1,4 +1,4 @@
-# chatroom
+# Vuejs Chatroom
 
 ## Project setup
 ```
